@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://7xnusr.com1.z0.glb.clouddn.com/o_1bqcc6jja1gnb1mbh1vg0kumqja7.ipa?e=1524566641&amp;token=8e4YkwOPAwrhUijy7FMfODl6WpNWmF9LiYknl5WH:2acJjpDdBL1j9ojj-Vg-6BFjwaA=</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <string>NO</string>
+                    <key>url</key>
+					<string>https://cdn-images-1.medium.com/fit/c/100/100/1*UDml4XwsCCWl1QOFJJL5dw.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<string>NO</string>
+					<key>url</key>
+					<string>https://cdn-images-1.medium.com/fit/c/50/50/1*UDml4XwsCCWl1QOFJJL5dw.png</string>
+				</dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.xunlei.iosthunder</string>
+                <key>bundle-version</key>
+                <string>5.30.1.3057</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>subtitle</key>
+                <string>欢迎关注小天使公众号：Angelegongzhong</string>
+                <key>title</key>
+                <string>迅雷 Beta - 欢迎关注小天使公众号：Angelegongzhong</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
